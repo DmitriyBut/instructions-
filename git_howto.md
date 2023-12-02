@@ -23,3 +23,8 @@ git log
 ```sh
 git log --oneline
 ```
+
+Перемещение между ветками
+```sh
+git checkout
+```
