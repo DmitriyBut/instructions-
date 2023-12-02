@@ -18,3 +18,8 @@ git commit -m
 ```sh
 git log
 ```
+
+Краткий просмотр истории коммитов
+```sh
+git log --oneline
+```
