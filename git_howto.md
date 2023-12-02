@@ -13,3 +13,8 @@ git add
 ```sh
 git commit -m 
 ```
+
+Просмотр имтории коммитов
+```sh
+git log
+```
