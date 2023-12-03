@@ -26,5 +26,13 @@ git log --oneline
 
 Перемещение между ветками
 ```sh
-git checkout <branch_name>
+
+git checkout <имя_ветки>
+
 ```
+
+Отображение всех веток
+```sh
+git branch
+```
+
