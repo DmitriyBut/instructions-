@@ -11,7 +11,7 @@ git add
 
 Команда записи изменения в репозитории
 ```sh
-git commit -m 
+git commit -m "Mesasage text"
 ```
 
 Просмотр имтории коммитов
