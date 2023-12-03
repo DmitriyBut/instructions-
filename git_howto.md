@@ -19,9 +19,9 @@ git commit -m "Mesasage text"
 git log
 ```
 
-Краткий просмотр истории коммитов
+Краткий просмотр истории коммитов и слияний
 ```sh
-git log --oneline
+git log --oneline --graph
 ```
 
 Перемещение между ветками
